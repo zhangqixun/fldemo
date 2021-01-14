@@ -29,7 +29,7 @@
           v-model="clientNum"
           controls-position="right"
           :min="2"
-          :max="10"
+          :max="3"
           size="mini"
           :disabled="isTraining"
         ></el-input-number>
