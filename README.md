@@ -1,5 +1,10 @@
 # fldemo
 
+## 如何部署
+```
+将dist.zip解压后直接部署到网站根目录即可访问
+```
+
 ## Project setup
 ```
 npm install
